@@ -4,7 +4,7 @@ body{
     font-family: 'Nanum Gothic', sans-serif;
 }
 .head{
-    background-color: #780000;
-    max-width: 100%;
+    background-color: #780000 !important;
+    max-width: 40px ;
     align-items: center;
 }

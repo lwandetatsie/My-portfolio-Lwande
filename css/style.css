@@ -8,8 +8,8 @@
     font-family: 'Jost', sans-serif;
     font-family: 'Marcellus', serif;
     font-family: 'Nanum Gothic', sans-serif;
-    margin-top: 100px;
     background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%) !important;
+    opacity: 100%;
 } 
 h1, h2, h3 {
     text-align: center;
@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 img{
     border: 1px solid #ddd;
-    border-radius: 50%;
+    border-radius: 60px;
     padding: 10px;
     width: 200px;
 }

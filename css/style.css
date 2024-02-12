@@ -6,5 +6,6 @@ body{
 .header{
     background-color: #780000;
     opacity: 50%;
-    
+    max-width: 100%;
+    align-items: center;
 }

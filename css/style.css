@@ -76,6 +76,10 @@ img{
     }
 }
 
+footer{
+    margin-left: 150px !important;
+}
+
 .social-icon{
     color: white;
     font-size: 50px;
@@ -83,4 +87,20 @@ img{
 .social-icon-words{
     font-size: 20px;
     color: white;
+}
+@media (min-width: 200px) {
+    footer{
+        margin-left: 90px !important;
+    }
+    .social-icon , .social-icon-words{
+        margin: 5px auto;
+    }
+ }
+@media (min-width: 380px) { 
+    footer{
+        margin-left: 90px !important;
+    }
+    .social-icon , .social-icon-words{
+        margin: 5px auto;
+    }
 }

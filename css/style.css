@@ -77,7 +77,8 @@ img{
 }
 
 footer{
-    margin-left: 150px !important;
+    display: flex;
+   justify-content: center !important;
 }
 
 .social-icon{

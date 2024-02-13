@@ -75,3 +75,8 @@ img{
         transform: translateY(50%) !important;
     }
 }
+
+.social-icon{
+    color: white;
+    font-size: 50px;
+}

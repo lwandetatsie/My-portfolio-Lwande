@@ -20,8 +20,34 @@ h1, h2, h3 {
 img{
     border: 1px solid #ddd;
     padding: 10px;
-    width: 200px;
+    width: 250px;
 }
 .card-body{
     color: white;
 }
+.cover-letter{
+    background-color: white;
+    opacity: 50%;
+    margin: 50px auto;
+    padding:  20px 40px;
+    color: black;
+}
+@media (min-width: 380px) { 
+    .info{
+        display: flex;
+       justify-content: center;
+    }
+ }
+ @media (min-width: 20px) { 
+   .head{
+    text-align: center;
+   }
+   .info{
+    display: flex;
+    justify-content: center;
+   }
+   .cover-letter{
+    margin: 20px auto;
+    padding: 40px 45px;
+   }
+ }

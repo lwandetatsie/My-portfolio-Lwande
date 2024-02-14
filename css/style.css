@@ -118,3 +118,11 @@ footer{
 .projects{
     color: white;
 }
+.projects-link{
+    color: white;
+    text-decoration: none;
+}
+.project-link :hover{
+    text-decoration: underline;
+    color: white;
+}
